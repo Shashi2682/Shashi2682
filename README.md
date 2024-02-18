@@ -27,5 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi2682&show_icons=true&locale=en" alt="shashi2682" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi2682&" alt="shashi2682" /></p>
-![](https://leetcard.jacoblin.cool/Shashi2682?ext=heatmap)
 
